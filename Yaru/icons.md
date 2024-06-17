@@ -1,8 +1,9 @@
 # Yaru Theme Symbolic Icons
 
-This is a list of the [Yaru Theme](https://github.com/ubuntu/yaru) Symbolic Icons. 
-Note that the actual icons displayed will vary based on your system's theme. 
-<!---Click [here](https://github.com/StorageB/icons/blob/main/GNOME46Adwaita/icons.md) for GNOME 46 default Adwaita icons.-->
+This is a list of the [Yaru Theme](https://github.com/ubuntu/yaru) symbolic icons.
+Click [here](https://github.com/StorageB/icons/blob/main/GNOME46Adwaita/icons.md) for the default GNOME 46 Adwaita icons.
+
+<!-- Note that the actual icons displayed will vary based on your system's theme. -->
 
 ## actions <br>
 <a href="#"><img src="https://github.com/ubuntu/yaru/blob/master/icons/Yaru/scalable/actions/action-unavailable-symbolic.svg" width="22" alt="action-unavailable-symbolic"></a>&nbsp; &nbsp; action-unavailable-symbolic<br>
