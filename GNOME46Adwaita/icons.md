@@ -1,4 +1,9 @@
-# GNOME 46 Adwaita Theme Symbolic Icons
+# Adwaita Theme Symbolic Icons
+
+This is a list of the [Adwaita theme](https://gitlab.gnome.org/GNOME/adwaita-icon-theme) symbolic icons.
+Click [here](https://github.com/StorageB/icons/blob/main/Yaru/icons.md) for Yaru theme icons.
+
+<!-- ICON LIST -->
 
 ## actions <br>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/StorageB/icons/blob/main/GNOME46Adwaita/light/action-unavailable-symbolic.svg"><source media="(prefers-color-scheme: light)" srcset="https://github.com/StorageB/icons/blob/main/GNOME46Adwaita/dark/action-unavailable-symbolic.svg"><img alt="action-unavailable-symbolic" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png"></picture> &nbsp; &nbsp;action-unavailable-symbolic<br>
