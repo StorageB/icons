@@ -2,7 +2,7 @@
 
 <!-- This is a list of the [Adwaita theme](https://gitlab.gnome.org/GNOME/adwaita-icon-theme) symbolic icons.-->
 
-For a list of the default Ubuntu Yaru theme icons, click [here](https://github.com/StorageB/icons/blob/main/Yaru/icons.md)
+For the default Ubuntu Yaru theme icons, click [here](https://github.com/StorageB/icons/blob/main/Yaru/icons.md)
 
 <!-- ICON LIST -->
 
