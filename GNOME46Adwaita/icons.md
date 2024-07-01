@@ -1,4 +1,4 @@
-# Adwaita Theme Symbolic Icons
+# GNOME Default Adwaita Theme Symbolic Icons
 
 <!-- This is a list of the [Adwaita theme](https://gitlab.gnome.org/GNOME/adwaita-icon-theme) symbolic icons.-->
 
