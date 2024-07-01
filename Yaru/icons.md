@@ -1,6 +1,7 @@
 # Yaru Theme Symbolic Icons
 
 <!--This is a list of the [Yaru theme](https://github.com/ubuntu/yaru) symbolic icons.-->
+Note: Icons are for the Ubuntu Yaru theme and may not be available for all systems. 
 
 For the default GNOME Adwaita theme icons, click [here](https://github.com/StorageB/icons/blob/main/GNOME46Adwaita/icons.md)
 
