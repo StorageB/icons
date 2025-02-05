@@ -1,4 +1,4 @@
-# Yaru Theme Symbolic Icons
+# Ubuntu Yaru Theme Symbolic Icons
 
 <!--This is a list of the [Yaru theme](https://github.com/ubuntu/yaru) symbolic icons.-->
 Note: Icons are for the Ubuntu Yaru theme and may not be available for all systems. 
