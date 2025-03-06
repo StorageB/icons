@@ -1,6 +1,6 @@
 # Symbolic Icon List
 
-A list of the symbolic icons for the default GNOME 46 Adwaita theme and the Ubuntu 24.04 Yaru theme.
+A list of the symbolic icons for the default GNOME Adwaita and Ubuntu 24.04 Yaru themes.
 
 <br>
 
