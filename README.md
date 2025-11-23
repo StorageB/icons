@@ -1,9 +1,10 @@
 # Symbolic Icon List
 
-A list of the symbolic icons for the default GNOME Adwaita and Ubuntu 24.04 Yaru themes.
+**A list of symbolic icons for the default GNOME Adwaita and Ubuntu Yaru themes.**
 
 <br>
 
+<!--
 ### GNOME 46 Adwaita Icons
 
 Icon List: https://github.com/StorageB/icons/blob/main/GNOME46Adwaita/icons.md
@@ -11,20 +12,28 @@ Icon List: https://github.com/StorageB/icons/blob/main/GNOME46Adwaita/icons.md
 Credit: Icon names and images downloaded from the GNOME Adwaita Icon Theme Gitlab repo https://gitlab.gnome.org/GNOME/adwaita-icon-theme
 
 <br>
+-->
 
-### GNOME 48 Adwaita Icons
+### GNOME 48 Adwaita
 
-Icon List: https://github.com/StorageB/icons/blob/main/GNOME48Adwaita/icons.md
+https://github.com/StorageB/icons/blob/main/GNOME48Adwaita/icons.md
 
-Credit: Icon names and images downloaded from the GNOME Adwaita Icon Theme Gitlab repo https://gitlab.gnome.org/GNOME/adwaita-icon-theme
+
 
 <br>
 
-### Ubuntu Yaru Icons
+### Ubuntu Yaru
 
-Icon List: https://github.com/StorageB/icons/blob/main/Yaru/icons.md
+https://github.com/StorageB/icons/blob/main/Yaru/icons.md
 
-Credit: Icon names and images are linked from the Ubuntu Yaru GitHub repo
+
+
+<br>
+
+### Credits
+
+Adwaita icon names and images downloaded from the GNOME Adwaita Icon Theme Gitlab repo:
+https://gitlab.gnome.org/GNOME/adwaita-icon-theme
+
+Yaru icon names and images are linked from the Ubuntu Yaru GitHub repo:
 https://github.com/ubuntu/yaru
-
-<br>
