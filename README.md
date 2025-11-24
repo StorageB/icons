@@ -2,16 +2,10 @@
 
 **A list of symbolic icons for the default GNOME Adwaita and Ubuntu Yaru themes.**
 
-<br>
-
 <!--
-### GNOME 46 Adwaita Icons
+### GNOME 46 Adwaita
 
-Icon List: https://github.com/StorageB/icons/blob/main/GNOME46Adwaita/icons.md
-
-Credit: Icon names and images downloaded from the GNOME Adwaita Icon Theme Gitlab repo https://gitlab.gnome.org/GNOME/adwaita-icon-theme
-
-<br>
+https://github.com/StorageB/icons/blob/main/GNOME46Adwaita/icons.md
 -->
 
 ### GNOME 48 Adwaita
@@ -19,16 +13,10 @@ Credit: Icon names and images downloaded from the GNOME Adwaita Icon Theme Gitla
 https://github.com/StorageB/icons/blob/main/GNOME48Adwaita/icons.md
 
 
-
-<br>
-
 ### Ubuntu Yaru
 
 https://github.com/StorageB/icons/blob/main/Yaru/icons.md
 
-
-
-<br>
 
 ### Credits
 
